@@ -1,4 +1,4 @@
-<h1 align="center">PHP Developer</h1>
+<h1 align="center">Python Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -9,6 +9,8 @@ I am a Python backend engineer. I will help you in different areas. </br>
 <a href="https://instagram.com/asliddinbek1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" height="30" width="40" /></a>
 </p>
 
+ 
+[![Telegram Badge](https://img.freepik.com/premium-vector/modern-badge-telegram-icon_578229-156.jpg?w=2000)](https://t.me/Asliddinbek_official) 
 
 
 
