@@ -9,7 +9,6 @@ I am a Python backend engineer. I will help you in different areas. </br>
 <a href="https://instagram.com/asliddinbek1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" height="30" width="40" /></a>
 </p>
 <a href="https://instagram.com/asliddinbek1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" height="30" width="40" /></a>
-</p>
 
 
 
