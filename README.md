@@ -4,13 +4,12 @@
 
 I am a Python backend engineer. I will help you in different areas. </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/asliddinbek1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" height="30" width="40" /></a>
-</p>
 
 <a href="https://t.me/Asliddinbek_official">
  <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="40" heigth="30">  
+</a>
+<a href="https://instagram.com/asliddinbek1229">
+ <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="40" heigth="30">
 </a>
 
 
