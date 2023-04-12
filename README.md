@@ -9,8 +9,9 @@ I am a Python backend engineer. I will help you in different areas. </br>
 <a href="https://instagram.com/asliddinbek1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asliddinbek1229" height="30" width="40" /></a>
 </p>
 
- 
-[![Telegram Badge](https://img.freepik.com/premium-vector/modern-badge-telegram-icon_578229-156.jpg?w=2000)](https://t.me/Asliddinbek_official) 
+<a href="https://t.me/Asliddinbek_official">
+ <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="25">  
+</a>
 
 
 
