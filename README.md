@@ -10,7 +10,7 @@ I am a Python backend engineer. I will help you in different areas. </br>
 </p>
 
 <a href="https://t.me/Asliddinbek_official">
- <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="25">  
+ <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="40" heigth="30">  
 </a>
 
 
