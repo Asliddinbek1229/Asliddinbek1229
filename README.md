@@ -9,7 +9,7 @@ I am a Python backend engineer. I will help you in different areas. </br>
  <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="40" heigth="30">  
 </a>
 <a href="https://instagram.com/asliddinbek1229">
- <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="35" heigth="25">
+ <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="40" heigth="30">
 </a>
 
 
@@ -18,7 +18,7 @@ I am a Python backend engineer. I will help you in different areas. </br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently learning the back-end of telegram bot
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
