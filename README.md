@@ -6,7 +6,7 @@ I am a Python backend engineer. I will help you in different areas. </br>
 
 
 <a href="https://t.me/Asliddinbek_official">
- <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="40" heigth="30">  
+ <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" width="50" heigth="40">  
 </a>
 <a href="https://instagram.com/asliddinbek1229">
  <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="40" heigth="30">
