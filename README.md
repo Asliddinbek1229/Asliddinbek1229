@@ -6,7 +6,7 @@ I am a Python backend engineer. I will help you in different areas. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
  
-[![Telegram Badge](https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png(width="10px"))](https://t.me/Asliddinbek_official)
+[![Telegram Badge](https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png(width="100px"))](https://t.me/Asliddinbek_official)
 
 
   
