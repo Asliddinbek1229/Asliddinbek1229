@@ -6,8 +6,8 @@ I am a Python backend engineer. I will help you in different areas. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
  
-[![Telegram Badge](https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png)](https://t.me/Asliddinbek_official) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Telegram Badge](https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png)](https://t.me/Asliddinbek_official, width=10) 
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
