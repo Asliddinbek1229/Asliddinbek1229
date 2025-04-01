@@ -70,3 +70,7 @@ Contact me:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinbek1229&theme=gotham" alt="asliddinbek1229" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asliddinbek1229&layout=compact&theme=gotham" alt="asliddinbek1229" />
+</p>
