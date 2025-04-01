@@ -37,6 +37,7 @@ Contact me:
 ![Image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Image]([https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white](https://img.shields.io/badge/django-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white))
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asliddinbek1229&show_icons=true&theme=gotham" alt="asliddinek1229" />
