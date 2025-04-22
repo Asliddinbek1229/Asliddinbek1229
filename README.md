@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Asliddinbek - Python Backend Engineer 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Salom! Men Python backend dasturchisiman va Telegram botlar, veb ilovalar va AI loyihalari bilan shug‘ullanaman!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hey there! I'm a passionate Python backend developer specializing in Telegram bots, web apps, and AI projects!
 </p>
 
 <p align="center">
@@ -23,17 +23,17 @@
 
 ---
 
-## 👨‍💻 Men haqimda
+## 👨‍💻 About Me
 
-- 🎓 **Telegram botlar va veb ilovalar** backendini o‘rganmoqdaman.
-- 🤖 **AI**, Microservices va Event-Driven Architecture sohasida tajriba orttiryapman.
-- 📹 YouTube’da **dasturlash bo‘yicha darslar** yozaman.
-- 💪 **Bodybuilding** va **Calisthenics** bilan shug‘ullanyapman.
-- 🚀 Har doim yangi loyihalarda hamkorlikka tayyorman!
+- 🎓 Diving deep into **Telegram bot development** and **web backend** engineering.
+- 🤖 Exploring **AI**, **Microservices**, and **Event-Driven Architecture**.
+- 📹 Sharing **coding tutorials** on my YouTube channel.
+- 💪 Passionate about **Bodybuilding** and **Calisthenics**.
+- 🚀 Always open to collaborating on innovative dev projects!
 
 ---
 
-## ⚡ Texnologiyalar
+## ⚡ Technologies
 
 ### Backend & Frameworks
 <p align="left">
@@ -73,37 +73,37 @@
 
 ---
 
-## 📊 GitHub Statistikasi
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asliddinbek1229&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asliddinbek1229&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asliddinbek1229&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asliddinbek1229&layout=compact&theme=dracula" alt="Top Languages" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinbek1229&theme=radical" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinbek1229&theme=dracula" alt="GitHub Streak" width="500"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asliddinbek1229&theme=radical&row=1&margin-w=15&margin-h=15" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=asliddinbek1229&theme=dracula&row=1&margin-w=15&margin-h=15" alt="Trophies"/>
   </a>
 </p>
 
 ---
 
-## 🌟 Mening loyihalarim
+## 🌟 My Projects
 
-- **[Bio-Olam Bot](https://github.com/asliddinbek1229/bio-olam-bot)**: Telegramda biologiya fanidan testlar va quizlar uchun bot.
-- **[AI-Powered Chatbot](https://github.com/asliddinbek1229/ai-chatbot)**: FastAPI va TensorFlow yordamida qurilgan suhbat boti.
-- **YouTube Darslari**: [Dasturlash bo‘yicha darslar](https://www.youtube.com/@your_youtube_channel) - Python, Django va boshqa texnologiyalar haqida.
+- **[Bio-Olam Bot](https://github.com/asliddinbek1229/bio-olam-bot)**: A Telegram bot for biology quizzes and tests.
+- **[Imkon-edu.uz](https://github.com/asliddinbek1229/bio-olam-web)**: A conversational bot built with FastAPI and TensorFlow.
+- **YouTube Tutorials**: [Coding Tutorials](https://www.youtube.com/@your_youtube_channel) - Learn Python, Django, and more.
 
 ---
 
-## 📬 Aloqa
+## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="asliddinbek1229@gamil.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/Asliddinbek_official">
@@ -118,4 +118,4 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="Thanks for visiting"/>
 </p>
 
-<p align="center">⭐️ Profilimga tashrif buyurganingiz uchun rahmat! Loyihalarda hamkorlik qilishni xohlaysizmi? Aloqaga chiqing! ⭐️</p>
+<p align="center">⭐️ Thanks for visiting my profile! Want to collaborate on a project? Feel free to reach out! ⭐️</p>
